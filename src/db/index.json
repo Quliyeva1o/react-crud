@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "4f0rehynUtIsMhfQik1Le",
+      "name": "t-shirt",
+      "price": "40",
+      "isDiscount": false
+    },
+    {
+      "id": "X8kaHhr6FPmvrnEi_8BHi",
+      "name": "crop",
+      "price": "15",
+      "isDiscount": true
+    },
+    {
+      "id": "dbBxII7y-LEHNEOfCvXqk",
+      "name": "short",
+      "price": "30",
+      "isDiscount": false
+    }
+  ]
+}
